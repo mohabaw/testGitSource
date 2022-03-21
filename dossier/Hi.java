@@ -1,9 +1,9 @@
-public class Hello {
+public class Hi {
 
 	public static void main(String[] args) {
 		
 		for (int i=1; i<=10;i++) {
-			System.out.println("Hello world ! " +i);
+			System.out.println("Hi man ! " +i);
 		}
 		
 		
